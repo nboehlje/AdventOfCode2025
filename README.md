@@ -4,9 +4,10 @@
 ## Motivation
 Yep, I'm finally doing it for real this time. All of my previous flaky attempts have been forgiven. 
 
-## Programming Language
-
-I'm using Rust, a really beginner friendly but slow language.  
+## New Tools 
+- I'm using Rust, a really beginner friendly but slow language.
+- I'm also using Neovim exclusively
+  - I'm somewhat proficient with Vim motions, (all my IDEs have Vim mode enabled) but my usage of Vim in the terminal has been limited to making small edits here and there on random files. I've never dedicated an entire project to Neovim.         
 
 ## Contributing
 
